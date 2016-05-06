@@ -1,0 +1,9 @@
+data/
+data_backup*/
+data_train/
+
+filemanage1_mine.sh
+filemanage2_mine.sh
+
+train_test_loss.csv
+train_test_time.csv
